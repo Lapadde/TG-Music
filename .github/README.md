@@ -65,7 +65,7 @@
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
 
-```
+````bash
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-pip ffmpeg -y
 sudo pip3 install -U pip
@@ -76,8 +76,7 @@ pip3 install -U -r requirements.txt
 nano sample.env
 mv sample.env .env
 bash start
-
-```
+````
 
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
 <br>
