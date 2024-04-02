@@ -64,7 +64,7 @@
 
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
-#### Deploy in VPS
+<b>Deploy In VPS</b>
 
 ````bash
 sudo apt-get update && sudo apt-get upgrade -y
