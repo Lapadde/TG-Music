@@ -64,6 +64,21 @@
 
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
+
+```
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get install python3-pip ffmpeg -y
+sudo pip3 install -U pip
+curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+git clone https://github.com/Lapadde/TG-Music
+cd TG-Music
+pip3 install -U -r requirements.txt
+nano sample.env
+mv sample.env .env
+bash start
+
+```
+
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
 <br>
     
